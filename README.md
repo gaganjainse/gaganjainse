@@ -28,7 +28,7 @@ Production-hardened attendance management system. Flask + MySQL + Docker + CI/CD
 ## 📫 Reach me
 
 - 📧 gagan.jain.se@gmail.com
-- 🔗 [linkedin.com/in/gagan-jain-a88aab345](https://linkedin.com/in/gagan-jain-a88aab345)
+- 🔗 [linkedin.com/in/gaganjainse](https://linkedin.com/in/gaganjainse)
 - 📍 Vellore, India · Open to relocation
 
 *Seeking entry-level Software Engineer / Full Stack Developer roles.*
