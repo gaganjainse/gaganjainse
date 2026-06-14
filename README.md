@@ -1,34 +1,20 @@
 # Hi, I'm Gagan Jain 👋
 
-Computer Science student at VIT Vellore (expected July 2026) building full-stack web applications, developer tooling, and AI/LLM projects.
+Computer Science student at VIT Vellore (expected July 2026) building full-stack web applications, developer tooling, and AI/LLM projects — including Vyākṛti, my own programming language and web IDE.
 
-## 🔭 Flagship: [Vyākṛti](https://github.com/gaganjainse/Vyakrti)
-A Sanskrit-oriented programming language with a complete compiler pipeline and browser-based IDE. Built from scratch in Rust + React.
+🔭 Currently building: Vyākṛti — a Sanskrit-oriented programming language with a browser-based IDE (React · Monaco · Node.js · Python · Rust).
 
-- Complete compiler pipeline: lexer → parser → type checker → bytecode compiler → stack-based VM
-- Web IDE with React + Monaco Editor + Zustand + Tailwind CSS
-- Rust (axum) backend with compile, REPL, LSP endpoints
-- 123 tests + self-hosting corpus
+🚀 Also shipped: AIM — a production-hardened attendance management system (Flask · MySQL · Docker · CI/CD).
 
-## 🚀 Also Built: [AIM](https://github.com/gaganjainse/AIM)
-Production-hardened attendance management system. Flask + MySQL + Docker + CI/CD. 84 tests.
-
-- Argon2id auth, CSRF protection, brute-force lockout, security headers
-- Reporting with Chart.js, FullCalendar, light/dark themes
-- Prometheus monitoring, encrypted backups, WCAG 2.1 AA compliant
-
-## 🛠️ Tech Stack
-
+### Tech
 **Languages:** Python · JavaScript · TypeScript · Rust · C · C++
-**Frontend:** React · React Native · Tailwind CSS
-**Backend:** Node.js · Express · Flask · Axum (Rust)
+**Frontend:** React · React Native
+**Backend:** Node.js · Express · Flask
 **Databases:** MySQL · MongoDB
-**Tools:** Git · Docker · Monaco Editor · Linux
+**AI/ML:** Ollama · YOLO · Git · Monaco Editor · Linux
+**IoT:** Raspberry Pi · Arduino
 
-## 📫 Reach me
-
-- 📧 gagan.jain.se@gmail.com
-- 🔗 [linkedin.com/in/gaganjainse](https://linkedin.com/in/gaganjainse)
-- 📍 Vellore, India · Open to relocation
-
-*Seeking entry-level Software Engineer / Full Stack Developer roles.*
+📫 Reach me
+- Email: gagan.jain.se@gmail.com
+- LinkedIn: [linkedin.com/in/gagan-jain-a88aab345](https://linkedin.com/in/gagan-jain-a88aab345)
+- GitHub: [github.com/gaganjainse](https://github.com/gaganjainse)
