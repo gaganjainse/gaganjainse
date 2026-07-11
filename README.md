@@ -1,7 +1,7 @@
 <h1>Hi, I'm Gagan Jain 👋</h1>
 
 <p>
-  <b>CS @ VIT Vellore (expected July 2026)</b> — building compilers, full-stack apps, and AI/LLM systems.
+  <b>CS @ VIT Vellore (2026)</b> — building compilers, full-stack apps, and AI/LLM systems.
   I created <b>Vyākṛti</b>, a Sanskrit-oriented programming language with a browser-based IDE, and have shipped
   production-grade systems in Flask, Laravel, and Next.js.
 </p>
@@ -19,7 +19,7 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | <a href="https://github.com/gaganjainse/Vyakrti"><b>Vyākṛti</b></a> <a href="https://vyakrti.vercel.app">(demo)</a> | Sanskrit-oriented programming language with compiler pipeline (lexer → parser → type checker → bytecode) and browser-based IDE with Monaco Editor, LSP, and REPL. 123 tests. | Rust, React, TypeScript, Axum |
-| <a href="https://github.com/gaganjainse/AIM"><b>AIM</b></a> <a href="https://aim-nine-puce.vercel.app">(demo)</a> | Production-grade attendance management system with Argon2id auth, CSRF protection, Prometheus monitoring, 101 tests, Docker Compose, and CI/CD. WCAG 2.1 AA. | Python, Flask, MySQL, Docker |
+| <a href="https://github.com/gaganjainse/AIM"><b>AIM</b></a> <a href="https://aim-live.vercel.app">(demo)</a> | Production-grade attendance management system with Argon2id auth, CSRF protection, Prometheus monitoring, 101 tests, Docker Compose, and CI/CD. WCAG 2.1 AA. | Python, Flask, MySQL, Docker |
 | <a href="https://github.com/gaganjainse/Food_Waste_Reduction_System"><b>FWRS</b></a> | Optimizes surplus food allocation to NGOs using 3-stage linear programming (fairness → priority → cost). Includes Folium maps, Tkinter GUI, and Flask dashboard. | Python, PuLP, Flask, Folium |
 | <a href="https://github.com/gaganjainse/GameVault"><b>GameVault</b></a> | Social gaming marketplace with Next.js 14, Supabase, tag-based search, and responsive dark-theme UI. | Next.js, TypeScript, Supabase, Tailwind |
 | <a href="https://github.com/gaganjainse/grievance-portal"><b>Grievance Portal</b></a> | Multi-role Laravel 11 app for filing and tracking grievances. Docker Compose, MySQL, Nginx reverse proxy, role-based access. | PHP, Laravel 11, MySQL, Docker |
@@ -53,7 +53,7 @@
 
 ---
 
-### 📫 Reach me
+### 💫 Reach me
 
 - **Email:** [gagan.jain.se@gmail.com](mailto:gagan.jain.se@gmail.com)
 - **LinkedIn:** [linkedin.com/in/gaganjainse](https://linkedin.com/in/gaganjainse)
