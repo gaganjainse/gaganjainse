@@ -33,7 +33,7 @@
 | <a href="https://github.com/gaganjainse/AIM"><b>AIM</b></a> <a href="https://aim-live.vercel.app">(demo)</a> | Production-grade attendance management system with Argon2id auth, CSRF protection, Prometheus monitoring, 101 tests, Docker Compose, and CI/CD. | Python, Flask, MySQL, Docker |
 | <a href="https://github.com/gaganjainse/FWRS"><b>FWRS</b></a> | Optimizes surplus food allocation to NGOs using 3-stage linear programming (fairness → priority → cost), expiry-aware routing, Folium maps, and a Flask dashboard. | Python, PuLP, Flask, Folium |
 | <a href="https://github.com/gaganjainse/grievance-portal"><b>Grievance Portal</b></a> | Multi-role Laravel 11 app for filing and tracking grievances with role-based access and Docker Compose. | PHP, Laravel 11, MySQL, Docker |
-| <a href="https://github.com/gaganjainse/GameVault"><b>GameVault</b></a> | Social gaming marketplace with Next.js, Supabase, tag-based search, and a responsive dark-theme UI. | Next.js, TypeScript, Supabase, Tailwind |
+| <a href="https://github.com/gaganjainse/GameVault"><b>GameVault</b></a> | Social gaming marketplace with Next.js 13, Supabase, tag-based search, and a responsive dark-theme UI. | Next.js, TypeScript, Supabase, Tailwind |
 | <a href="https://github.com/gaganjainse/portfolio"><b>Portfolio</b></a> <a href="https://gaganjain.vercel.app">(live)</a> | Personal portfolio — Astro 7 + Tailwind CSS 4 + GSAP, dark/light theme, data-driven résumé, and an enterprise-style docs site. | Astro, Tailwind, GSAP, TypeScript |
 
 ---
