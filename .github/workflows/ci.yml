@@ -1,0 +1,30 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions: read-all
+
+jobs:
+  health:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Shell scripts syntax
+        run: |
+          set -e
+          while IFS= read -r f; do bash -n "$f"; done < <(git ls-files '*.sh' '*.bash')
+      - name: Python syntax
+        run: |
+          set -e
+          while IFS= read -r f; do python3 -m py_compile "$f"; done < <(git ls-files '*.py')
+      - name: Gitleaks secret scan
+        run: |
+          curl -sfL -o /tmp/gitleaks.tgz https://github.com/gitleaks/gitleaks/releases/download/v8.24.3/gitleaks_8.24.3_linux_x64.tar.gz
+          tar -xzf /tmp/gitleaks.tgz -C /tmp gitleaks
+          /tmp/gitleaks detect --no-banner --redact --exit-code 1 || true
