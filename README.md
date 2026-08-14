@@ -23,7 +23,7 @@
 |---------|-------------|-------|
 | <a href="https://github.com/gaganjainse/SheshAOS"><b>SheshAOS</b></a> | Governance-first, event-sourced AI operating system: policy-enforced agent kernel, append-only audit trail, provider-agnostic LLM streaming (OpenAI/Anthropic), terminal emulation + SSH. 9 workspace crates + CLI, 877+ tests. | Rust, Tokio, LiteLLM, Event Sourcing |
 | <a href="https://github.com/gaganjainse/shesh-ecosystem"><b>shesh-ecosystem</b></a> | Federated, local-first AI body (Brain + Mind + Soma) for CachyOS/Hyprland — orchestrator, manifests, gates, 22 components. | Python, Rust, MCP, Ollama |
-| <a href="https://github.com/gaganjainse/shesh-omniroute"><b>shesh-omniroute</b></a> | Shesh wrapper for OmniRoute — free MIT AI gateway (291 providers, 90+ free, 500+ models) with automatic tier fallback. | TypeScript, MCP, A2A |
+| <a href="https://github.com/gaganjainse/shesh-omniroute"><b>shesh-omniroute</b></a> | Shesh wrapper for OmniRoute — free open-source AI gateway (291 providers, 90+ free, 500+ models) with automatic tier fallback. | TypeScript, MCP, A2A |
 | <a href="https://github.com/gaganjainse/rag-service"><b>RAG Service</b></a> | Production RAG API: hybrid retrieval (dense embeddings + BM25 keyword, fused with Reciprocal Rank Fusion) over ChromaDB. Grounded answers with citations. | Python, FastAPI, ChromaDB |
 | <a href="https://github.com/gaganjainse/llm-eval-harness"><b>LLM Eval Harness</b></a> | Golden-set evaluation for LLM/RAG systems: faithfulness, answer relevance, correctness with LLM-as-judge + offline fallbacks. CI-ready reports. | Python, LLM-as-Judge, YAML |
 
