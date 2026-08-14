@@ -76,3 +76,6 @@
 - **Email:** [gagan.jain.se@gmail.com](mailto:gagan.jain.se@gmail.com)
 - **LinkedIn:** [linkedin.com/in/gaganjainse](https://linkedin.com/in/gaganjainse)
 - **Portfolio:** [gaganjain.vercel.app](https://gaganjain.vercel.app)
+## 📚 Docs
+
+Fleet-wide reading compilation: [shesh-docs](https://github.com/gaganjainse/shesh-docs).
